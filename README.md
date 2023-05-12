@@ -12,7 +12,7 @@ The utilization of Express.js API and Sequelize for interacting with a MySQL dat
 6. Then go to your insomnia app and submit your requests on http://localhost:3001/api/
 
 ## Links
-Repository: https://github.com/roshniipatel/stay-on-track 
+Repository: https://github.com/roshniipatel/e-busy 
 
 Walk-through Video (how to get started): https://drive.google.com/file/d/1UcvYZysDACyyQ5LnyKzagjZ_nhOCj4v8/view?usp=sharing 
 
