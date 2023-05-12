@@ -1,4 +1,4 @@
-# E-Work
+# E-Busy
 
 ## Description
 The utilization of Express.js API and Sequelize for interacting with a MySQL database as the back-end of an e-commerce website is showcased in this project. The initial commits reveal the use of starter code.
