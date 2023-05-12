@@ -16,7 +16,7 @@ Repository: https://github.com/roshniipatel/stay-on-track
 
 Walk-through Video (how to get started): https://drive.google.com/file/d/1UcvYZysDACyyQ5LnyKzagjZ_nhOCj4v8/view?usp=sharing 
 
-Video of Routes: 
+Video of Routes: https://drive.google.com/file/d/1x3tQ0ReLRj0-vyUhuoP4LuDCUv-mx0yl/view?usp=share_link 
 
 ## Credits
 Inquirer Package
